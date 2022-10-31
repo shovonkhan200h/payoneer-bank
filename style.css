@@ -1,0 +1,24 @@
+body{
+    padding: 100px;
+}
+
+
+#tran-id{
+    display: none;
+}
+
+.deposite{background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);}
+.withdraw{background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);}
+.balance{background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);}
+.status{
+    margin: 0 20px;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 10px;
+}
